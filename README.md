@@ -19,7 +19,7 @@
 
 #### [Exercise 3](https://github.com/estebansamayoa1/data.structures/tree/main/E3)
 - Simple program to select and buy products and generate a receipt
-- Execution video: 
+- Execution video: https://youtu.be/70hN_lmcmDo
 - Python (Runs in command line)
 - Profiler: Cprofile
 - Unit Testing: Python library unittest
