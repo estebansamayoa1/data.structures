@@ -10,6 +10,12 @@
 - Profiler: Cprofile
 - Unit Testing: Python Library unittest
 
+[Exercise 2](https://github.com/estebansamayoa1/data.structures/tree/main/E2)
+- Program to manage simple debits and credits of an account and get a report on them.
+- Python (Runs in command line)
+- Profiler: Cprofile
+- Unit Testing: Python library unittest
+
 
 
 
