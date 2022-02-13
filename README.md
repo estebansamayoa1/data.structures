@@ -26,7 +26,7 @@
 
 #### [Exercise 4](https://github.com/estebansamayoa1/data.structures/tree/main/E4)
 - Simple program to determine the quadrant of a point in a graph. 
-- Execution video: 
+- Execution video: https://www.youtube.com/watch?v=ZoDPAAXAA0g 
 - Python (Runs in command line)
 - Data Sctructure to test: Structs (In python the equivalent is a class, since there are no structs)
 - Profiler: Cprofile
