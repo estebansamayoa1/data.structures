@@ -24,6 +24,14 @@
 - Profiler: Cprofile
 - Unit Testing: Python library unittest
 
+#### [Exercise 4](https://github.com/estebansamayoa1/data.structures/tree/main/E4)
+- Simple program to determine the quadrant of a point in a graph. 
+- Execution video: 
+- Python (Runs in command line)
+- Data Sctructure to test: Structs (In python the equivalent is a class, since there are no structs)
+- Profiler: Cprofile
+- Unit testing: Python library unittest
+
 
 
 
