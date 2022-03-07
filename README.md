@@ -37,7 +37,7 @@
 ## PROJECTS
 
 ### [Project Jinx Social Media](https://github.com/nickolasnolte1/Proyecto-Estructura-de-Datos-2.0)
-- Api that functions like a simple social media, where people can post thoughts or discussions based on categories.
+- Social media where people can post thoughts or discussions based on categories.
 - Runs in local host, developed in Flask.
 - Implements data structures learned in class. 
 - Unit testing: Python library unittest
