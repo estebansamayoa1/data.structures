@@ -3,6 +3,8 @@
 ### Esteban Samayoa
 ### Carnet 20200188 
 
+## CLASS EXERCISES
+
 #### [Exercise 1](https://github.com/estebansamayoa1/data.structures/tree/main/E1)
 - Simple program to determine which grade a student would get based on the test score. 
 - Python (Runs in terminal)
@@ -32,6 +34,14 @@
 - Profiler: Cprofile
 - Unit testing: Python library unittest
 
+## PROJECTS
+
+### [Project Jinx Social Media](https://github.com/nickolasnolte1/Proyecto-Estructura-de-Datos-2.0)
+- Api that functions like a simple social media, where people can post thoughts or discussions based on categories.
+- Runs in local host, developed in Flask.
+- Implements data structures learned in class. 
+- Unit testing: Python library unittest
+- Profiler: flask_profiler
 
 
 
