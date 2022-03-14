@@ -34,6 +34,10 @@
 - Profiler: Cprofile
 - Unit testing: Python library unittest
 
+#### [Exercise 5](https://github.com/estebansamayoa1/data.structures/tree/main/E5)
+- Program to manage the workers of a factory. 
+- Python (runs in command line)
+
 ## PROJECTS
 
 ### [Project Jinx Social Media](https://github.com/nickolasnolte1/Proyecto-Estructura-de-Datos-2.0)
