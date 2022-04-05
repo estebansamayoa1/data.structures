@@ -38,6 +38,11 @@
 - Program to manage the workers of a factory. 
 - Python (runs in command line)
 
+#### [Exercise 6](https://github.com/estebansamayoa1/data.structures/tree/main/E6)
+- Code to exemplify how the Treap Data Structure works.
+- Python (runs in command line)
+- Presentation with information about the tree. 
+
 ## PROJECTS
 
 ### [Project Jinx Social Media](https://github.com/nickolasnolte1/Proyecto-Estructura-de-Datos-2.0)
