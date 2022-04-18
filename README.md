@@ -43,6 +43,10 @@
 - Python (runs in command line)
 - Presentation with information about the tree. 
 
+#### [Exercise 7](https://github.com/estebansamayoa1/data.structures/tree/main/E7)
+- File adapted to python that tests the graphviz software to test graphs and display information.
+- It was developed in Google Colab that work similarly to Jupyter. 
+
 ## PROJECTS
 
 ### [Project Jinx Social Media](https://github.com/nickolasnolte1/Proyecto-Estructura-de-Datos-2.0)
